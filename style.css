@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+#main_container {
+    background-color: #03030335;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    display: inline-block;
+}
+
+#box {
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background-color: #000;
+}
+
+#animate {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top:190px;
+    left: 190px;
+    border-radius: 50%;
+    background-color: #ecf0f3;
+
+}
+#btn_container{
+    margin-left: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,80px)
+}
+button{
+    width:80px;
+    height: 50px;
+    background-color: #ecf0f3;
+    color: #707070;
+    border: 1px inset rgb(181, 165, 165);
+    
+}

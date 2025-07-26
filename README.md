@@ -23,6 +23,13 @@ style.css       # Styles for the ball and layout
 - Modify `style.css` to change the appearance of the ball or layout.
 - Update `myscript.js` to add more features or change controls.
 
+
 ## License
-This project is intended for educational purposes only.
+This project is licensed under the Educational Community License, Version 2.0 (ECL-2.0). See the [LICENSE](./LICENSE) file for details.
+
+**Summary:**
+- Educational and non-commercial use only
+- Redistributions must retain copyright and license
+- No use of the name "student-attendance" for derived products
+- Provided "AS IS" without warranty
 
